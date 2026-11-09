@@ -1,0 +1,38 @@
+h1{
+    color:#666633;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+
+h2{
+    font-size:150%;
+    background-color: #990033;
+    color: whitesmoke;
+
+    
+}
+
+
+body{
+    background-color:#CCCC99;
+    font-family:sans-serif;;
+    font-size:130%;
+}
+
+
+
+p{
+    background-color:#D2C8BD;
+}
+
+
+em{
+    color: #666633;
+    text-decoration: underline;
+}
+strong{
+    color:#666633;
+    
+}
